@@ -40,4 +40,4 @@ ________________________________________________________________________________
 <img width="733" alt="image" src="https://github.com/kwagle7/ETL-Using-Shell-Scripts/assets/13037108/4f399103-098a-4f03-a823-c845bfbae9ac">
 <img width="736" alt="image" src="https://github.com/kwagle7/ETL-Using-Shell-Scripts/assets/13037108/39e0ac82-538d-4268-aa21-d9d3acdbc5cb">
 <img width="729" alt="image" src="https://github.com/kwagle7/ETL-Using-Shell-Scripts/assets/13037108/6cf04229-dede-4067-a14c-2d22a2566a38">
-
+<img width="719" alt="image" src="https://github.com/kwagle7/ETL-Using-Shell-Scripts/assets/13037108/202c1b0d-9d67-4a47-bc6e-005403d999d6">
