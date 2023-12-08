@@ -31,6 +31,13 @@ The columns which we need to copy to the table are the first four coumns : times
 
 NOTE: The file comes with a header. So use the ‘HEADER’ option in the ‘COPY’ command.
 
+# Initial file format:
+![image](https://github.com/kwagle7/ETL-Using-Shell-Scripts/assets/13037108/accf1b56-9097-4bcb-a37d-ec846a2d9e86)
+
+# Final csv file on database:
+![image](https://github.com/kwagle7/ETL-Using-Shell-Scripts/assets/13037108/ab170fa4-9259-4378-8d30-2d827fffbe53)
+
+
 -----------------------------------------------------------
 _________________________________________________________________________________________________________________
 # Solution Hints
