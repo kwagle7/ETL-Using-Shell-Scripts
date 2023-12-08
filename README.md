@@ -33,8 +33,16 @@ NOTE: The file comes with a header. So use the ‘HEADER’ option in the ‘COP
 
 -----------------------------------------------------------
 _________________________________________________________________________________________________________________
+# Solution Hints
+<img width="730" alt="image" src="https://github.com/kwagle7/ETL-Using-Shell-Scripts/assets/13037108/37625204-5f39-4816-b961-ca5280ac1ef1">
+<img width="736" alt="image" src="https://github.com/kwagle7/ETL-Using-Shell-Scripts/assets/13037108/e0a9ed1f-411f-4937-9f1a-b159840a38f0">
+<img width="720" alt="image" src="https://github.com/kwagle7/ETL-Using-Shell-Scripts/assets/13037108/ef11f8b6-5427-46a5-9aa0-5be330208c0f">
+<img width="728" alt="image" src="https://github.com/kwagle7/ETL-Using-Shell-Scripts/assets/13037108/e27884ed-2bbe-43f9-b06c-fe42037401c1">
+<img width="724" alt="image" src="https://github.com/kwagle7/ETL-Using-Shell-Scripts/assets/13037108/02cb2e2b-79d9-49d6-b066-42ea6e688779">
 
-# Some helpful commands and examples for ETL process.
+
+
+# Other helpful commands and examples for ETL process.
 <img width="720" alt="image" src="https://github.com/kwagle7/ETL-Using-Shell-Scripts/assets/13037108/fced9050-1079-4528-abda-225cae66f820">
 <img width="733" alt="image" src="https://github.com/kwagle7/ETL-Using-Shell-Scripts/assets/13037108/6b06b329-d5a3-4891-94ae-dcab8fdc7cc3">
 <img width="733" alt="image" src="https://github.com/kwagle7/ETL-Using-Shell-Scripts/assets/13037108/4f399103-098a-4f03-a823-c845bfbae9ac">
