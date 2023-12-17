@@ -1,12 +1,6 @@
 # ETL-Using-Shell-Scripts
 
-Note: This is an exercise file of coursera.
-
-Root course: IBM Data Warehouse Certification Course (https://www.coursera.org/professional-certificates/data-warehouse-engineering)
-
-Course Name: ETL and Data Pipelines with Shell, Airflow and Kafka 
-
-I've integrated this section into my GitHub profile to enrich my description. As part of the IBM Data Warehouse Certification Course, I delved into the "ETL and Data Pipelines with Shell, Airflow, and Kafka" module.
+(Note: This is the exercise provided by IBM DWH Engineer course , and I am documenting my solution here)
 
 _______________________________________________________________________________________________________
 -----------------------------------------------------
